@@ -63,6 +63,7 @@ export {FSharpCompiler} from './dotnet.js';
 export {GCCCompiler} from './gcc.js';
 export {GCCRSCompiler} from './gccrs.js';
 export {GCCCobolCompiler} from './gcccobol.js';
+export {GForthCompiler} from './gforth.js';
 export {GnuCobolCompiler} from './gnucobol.js';
 export {GolangCompiler} from './golang.js';
 export {HaskellCompiler} from './haskell.js';

@@ -329,6 +329,17 @@ const definitions: Record<LanguageKey, LanguageDefinition> = {
         previewFilter: null,
         monacoDisassembly: null,
     },
+    forth: {
+        name: 'Forth',
+        monaco: 'forth',
+        extensions: ['.fs', '.fth', '.f', '.forth'],
+        alias: [],
+        logoUrl: 'forth.svg',
+        logoUrlDark: null,
+        formatter: null,
+        previewFilter: null,
+        monacoDisassembly: null,
+    },
     fsharp: {
         name: 'F#',
         monaco: 'fsharp',
